@@ -1,0 +1,79 @@
+body {
+	text-align: justify;
+}
+
+
+
+#banner {
+	margin-top: 22px; !important
+}
+
+.navbar-inverse {
+  background-color: #000000;
+}
+
+.table th {
+    text-align: center;
+}
+.table td {
+    text-align: center;
+}
+
+
+.section .item {
+    margin-bottom: 15px;
+}
+
+
+
+.sidebar-wrapper {
+	height: auto;!important
+}
+
+
+@media (min-width: 768px) {
+  .container {
+    width: 768px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 992px;
+  }
+}
+
+
+ul {
+	padding-left: 20px;
+}
+
+p a {
+  color: orange!important;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+
+
+.anchor:before { 
+  display: block; 
+  content: " "; 
+  height: 60px;      /* Give height of your fixed element */
+  margin-top: -60px; /* Give negative margin of your fixed element */    
+  visibility: hidden; 
+}
+
+
+a.active {
+  background-color: #FFFFFF!important;
+  color: #000000 !important;
+}
+
+.btn {
+  border-radius: 0px;
+  margin-top: -4px;
+}
+
+.emp {
+  color: orange;
+}
