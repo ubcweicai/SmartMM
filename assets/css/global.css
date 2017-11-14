@@ -9,7 +9,8 @@ body {
 }
 
 .navbar-inverse {
-  background-color: #000000;
+    background-color: #0067a5;
+    border-color: #0067a5;
 }
 
 .table th {
@@ -48,7 +49,7 @@ ul {
 }
 
 p a {
-  color: orange!important;
+  color: #0ca4ff!important;
   text-decoration: underline;
   font-weight: bold;
 }
